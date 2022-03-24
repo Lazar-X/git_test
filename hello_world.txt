@@ -1,0 +1,2 @@
+Hello there.
+I am making some changes for this text file, so I can commit it to GitHub!
